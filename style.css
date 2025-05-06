@@ -1,0 +1,42 @@
+.nav-list-link{
+    font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 18.66px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #7D7D7D;
+}
+.header{
+  padding-top: 71px; 
+  padding-bottom: 92px; 
+}
+.photoblog{
+    padding-bottom: 66px;
+}
+a{
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+.nav-list{
+  display: flex;
+  justify-content: center;
+  gap: 99px;
+}
+.photoblog-list{
+  display: flex;
+  width: 920px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 30px;
+}
+.photoblog-list-item{
+  width: 420px;
+}
+.btn{
+  display: block;
+  margin: 0 auto;
+}
